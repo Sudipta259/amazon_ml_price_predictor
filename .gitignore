@@ -1,0 +1,9 @@
+dataset/
+models/
+catboost_info/
+.env
+.vscode/
+__pycache__/
+venv/
+env/
+.ipynb_checkpoints/
